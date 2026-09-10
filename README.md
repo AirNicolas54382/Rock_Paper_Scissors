@@ -59,4 +59,4 @@ Make sure you have the **Java Development Kit (JDK)** installed on your machine 
 
 ## 👤 Author
 
-*   **GitHub:** https://github.com/AirNicolas54382
+*   **GitHub:** [AirNicolas54382](https://github.com/AirNicolas54382)
